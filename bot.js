@@ -36,7 +36,7 @@ const prefix = "." // تقدر تغيره
     let filter = m => m.author.id === message.author.id;
    if(message.content.startsWith(".buy")){
        let user = client.users.get("591407427656613931"); // ايديك
-      let user1 = client.users.get("593759320282365952"); // اي دي بروبوت
+      let user1 = client.users.get("282859044593598464"); // اي دي بروبوت
      //ههقهقهقه
     // جيبلي كود فيه تحقق yes or no
  
