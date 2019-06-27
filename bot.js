@@ -69,7 +69,7 @@ const prefix = "." // تقدر تغيره
                  ** Please transfer the amount below :**
                  \`20k-probot\`
                 ** To:<@591407427656613931>**
-                 **Ex: #credit <@591407427656613931> 20000**
+                 **Ex: #credits <@591407427656613931> 20000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
      
@@ -98,7 +98,7 @@ const prefix = "." // تقدر تغيره
                  ** Please transfer the amount below :**
                  \`40k-probot\`
                 ** To:<@591407427656613931>**
-                 **Ex: #credit <@591407427656613931> 40000**
+                 **Ex: #credits <@591407427656613931> 40000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
                     message.channel.sendEmbed(mrx).then(m => {
@@ -128,7 +128,7 @@ const prefix = "." // تقدر تغيره
                  ** Please transfer the amount below :**
                  \`60k-probot\`
                 ** To:<@591407427656613931>**
-                 **Ex: #credit <@591407427656613931> 60000**
+                 **Ex: #credits <@591407427656613931> 60000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
                 message.channel.sendEmbed(mrx).then(m => {
@@ -158,7 +158,7 @@ const prefix = "." // تقدر تغيره
                  ** Please transfer the amount below :**
                  \`80k-probot\`
                 ** To:<@591407427656613931>**
-                 **Ex: #credit <@591407427656613931> 80000**
+                 **Ex: #credits <@591407427656613931> 80000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
                 message.channel.sendEmbed(mrx).then(m => {
@@ -188,7 +188,7 @@ const prefix = "." // تقدر تغيره
                  ** Please transfer the amount below :**
                  \`100k-probot\`
                 ** To:<@591407427656613931>**
-                 **Ex: #credit <@591407427656613931> 100000**
+                 **Ex: #credits <@591407427656613931> 100000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
                     message.channel.sendEmbed(mrx).then(m => {
