@@ -68,8 +68,8 @@ const prefix = "." // تقدر تغيره
           .setDescription(`**If you want to buy rank :**
                  ** Please transfer the amount below :**
                  \`20k-probot\`
-                ** To:<@527505679171321856>**
-                 **Ex: #credit <@527505679171321856> 20000**
+                ** To:<@591407427656613931>**
+                 **Ex: #credit <@591407427656613931> 20000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
      
@@ -97,8 +97,8 @@ const prefix = "." // تقدر تغيره
           .setDescription(`**If you want to buy rank :**
                  ** Please transfer the amount below :**
                  \`40k-probot\`
-                ** To:<@527505679171321856>**
-                 **Ex: #credit <@527505679171321856> 40000**
+                ** To:<@591407427656613931>**
+                 **Ex: #credit <@591407427656613931> 40000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
                     message.channel.sendEmbed(mrx).then(m => {
@@ -127,8 +127,8 @@ const prefix = "." // تقدر تغيره
           .setDescription(`**If you want to buy rank :**
                  ** Please transfer the amount below :**
                  \`60k-probot\`
-                ** To:<@527505679171321856>**
-                 **Ex: #credit <@527505679171321856> 60000**
+                ** To:<@591407427656613931>**
+                 **Ex: #credit <@591407427656613931> 60000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
                 message.channel.sendEmbed(mrx).then(m => {
@@ -157,8 +157,8 @@ const prefix = "." // تقدر تغيره
           .setDescription(`**If you want to buy rank :**
                  ** Please transfer the amount below :**
                  \`80k-probot\`
-                ** To:<@527505679171321856>**
-                 **Ex: #credit <@527505679171321856> 80000**
+                ** To:<@591407427656613931>**
+                 **Ex: #credit <@591407427656613931> 80000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
                 message.channel.sendEmbed(mrx).then(m => {
@@ -187,8 +187,8 @@ const prefix = "." // تقدر تغيره
           .setDescription(`**If you want to buy rank :**
                  ** Please transfer the amount below :**
                  \`100k-probot\`
-                ** To:<@527505679171321856>**
-                 **Ex: #credit <@527505679171321856> 100000**
+                ** To:<@591407427656613931>**
+                 **Ex: #credit <@591407427656613931> 100000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
                     message.channel.sendEmbed(mrx).then(m => {
